@@ -1,1 +1,1 @@
-alert ("Wake up to reality, Naruto Uzumaki!");
+alert ("Boas vindas ao nosso site!");

@@ -1,7 +1,7 @@
 let numeroDigitado = prompt ("Digite um número");
 
 if (numeroDigitado > 0) {
-    alert ("O núemro é positivo!");
+    alert ("O número é positivo!");
 } else if (numeroDigitado == 0) {
     alert ("O número é neutro!");
 } else {
