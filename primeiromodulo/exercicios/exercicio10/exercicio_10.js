@@ -1,5 +1,5 @@
-let idade = prompt ("Digite sua idade: ");
+let idade = prompt("Digite sua idade: ");
 
-if (idade >= 18) {
+if(idade >= 18) {
     alert ("Pode tirar habilitação!");
 }
